@@ -12,6 +12,6 @@ We calculated the precision, recall, and F1 scores by running the models on the 
 
 Notably, we performed the same cleaning process as the authors on the already-cleaned data, yet were still able to remove about 5,000 images from the training dataset that were unavailable, blurry, or obstructed by foliage.
 
-Link to our images and datasets: [https://drive.google.com/drive/u/1/folders/1bK4DHRNtNRBnrdUUTwhAXYmPOdJoqMPb](https://drive.google.com/drive/folders/1bK4DHRNtNRBnrdUUTwhAXYmPOdJoqMPb?usp=sharing)
+Link to our images, datasets, and ablation models: [https://drive.google.com/drive/u/1/folders/1bK4DHRNtNRBnrdUUTwhAXYmPOdJoqMPb](https://drive.google.com/drive/folders/1bK4DHRNtNRBnrdUUTwhAXYmPOdJoqMPb?usp=sharing)
 
 ![Poster](https://github.com/user-attachments/assets/b682e2a0-5e79-4523-bebf-fa08be70cb57)
